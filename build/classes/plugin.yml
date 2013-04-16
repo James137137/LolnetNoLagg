@@ -1,0 +1,8 @@
+name: LolnetNoLagg
+main: com.james137137.LolnetNoLagg.LolnetNoLagg
+version: 0.2
+authors: [James Anderson]
+commands:
+  LolnetNoLagg:
+    description: LolnetNoLagg
+    usage:
